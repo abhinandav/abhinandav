@@ -4,7 +4,7 @@
 <br>
 
 
-<img align='right' alt="coding" width=400 src="https://tenor.com/fW0MP8HbPj9.gif">
+<img align='right' alt="coding" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 - 📫 How to reach me **abhinandorg3@gmail.com**
