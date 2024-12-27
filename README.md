@@ -4,7 +4,7 @@
 <br>
 
 
-<img align='right' alt="coding" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UwYzFkNW42MG5zaXcxYTlvd3NhOWpzZHp0azdxb3QwOGt4ZnlqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align='right' alt="coding" width=400 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471y3bw9rtrr0zi5wvcv81ol24g2802t411pdnbuln&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 - 📫 How to reach me **abhinandorg3@gmail.com**
