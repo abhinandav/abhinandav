@@ -4,7 +4,7 @@
 <br>
 
 
-<img align='right' alt="coding" width=400 src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align='right' alt="coding" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UwYzFkNW42MG5zaXcxYTlvd3NhOWpzZHp0azdxb3QwOGt4ZnlqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 - 📫 How to reach me **abhinandorg3@gmail.com**
