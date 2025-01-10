@@ -1,6 +1,6 @@
 <h1 align="center">Hey Humans🤖, I'm Abhinand Av</h1>
 <br>
-<h3 align="center">A passionate Python, Django + React Full stack Developer</h3>
+<h3 align="center">A passionate Python Full stack Developer</h3>
 <br>
 
 
